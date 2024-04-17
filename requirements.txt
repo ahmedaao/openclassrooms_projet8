@@ -21,6 +21,7 @@ cycler==0.12.1
 debugpy==1.8.1
 decorator==5.1.1
 dm-tree==0.1.8
+-e git+ssh://git@github.com/ahmedaao/openclassrooms_projet8.git@4b8df4712f882563b9e51c1b653d851152191b56#egg=design_autonomous_car
 exceptiongroup==1.2.0
 executing==2.0.1
 fastapi==0.110.1
